@@ -1,4 +1,4 @@
-package org.victoria.chaining.model;
+package org.victoria.factory.model;
 
 import java.awt.*;
 

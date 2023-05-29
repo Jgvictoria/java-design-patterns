@@ -1,8 +1,7 @@
-package org.victoria.chaining.function;
+package org.victoria.factory.factory;
 
-import org.victoria.chaining.model.Circle;
+import org.victoria.chaining.function.Function;
 
-import java.awt.*;
 import java.util.List;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
